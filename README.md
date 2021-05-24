@@ -24,13 +24,17 @@
 <br></br>
 
 <p align='center'>
-<img alt='Clawful' src='https://img.shields.io/badge/Clawful-Online-7289DA?style=for-the-badge&logo=discord'/> <a href="https://discord.com/oauth2/authorize?client_id=775810393556779018&scope=bot&permissions=272682054" target="_blank"><img alt='Invite' src='https://img.shields.io/badge/-Add%20me!-%23F9BF9E?style=for-the-badge&logo=discord&logoColor=gray'/></a> <img alt='Count' src='https://img.shields.io/badge/Server%20Count-41-7289DA?style=for-the-badge&logo=discord'/>
+<img alt='Clawful' src='https://img.shields.io/badge/Clawful-Online-7289DA?style=for-the-badge&logo=discord'/> <a href="https://discord.com/oauth2/authorize?client_id=775810393556779018&scope=bot&permissions=272682054" target="_blank"><img alt='Invite' src='https://img.shields.io/badge/-Add%20me!-%23F9BF9E?style=for-the-badge&logo=discord&logoColor=gray'/></a>
 
 </p>
 
 <p align='center'>
 <samp>Clawful is an easy to use Discord bot with moderation and fun commands with a cross-server leveling system.</samp>
 </p>
+
+<p align='center'>
+<a href='https://top.gg/bot/775810393556779018'>
+<img alt='Bot Count' src='https://discordbots.org/api/widget/775810393556779018.svg'></a>
 
 <h3 align='center'>The Food Hub</h3>
 
