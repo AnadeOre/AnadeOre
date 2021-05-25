@@ -2,7 +2,7 @@
 
 <br></br>
 
-<p align='center'>  <samp>I'm a Math major student and self taught front-end web developer, now working in back-end stuff. Creator of Clawful discord bot. </samp></p>
+<p align='center'>  <samp>I'm a Math major student and self taught Front-End web developer, now working in with Back-End. Creator of Clawful discord bot. </samp></p>
 
 <hr>
 
@@ -51,6 +51,29 @@
 <p align='center'>
 <samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
 </p>
+                 
+
+<h3 align='center'>Score Counter</h3>
+                       
+<p align='center'>
+<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/React-Score-Counter/master/Images/Logo.png' height=130px/>
+<p>
+
+<br></br>
+
+<p align='center'>
+<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='netlify' src='https://api.netlify.com/api/v1/badges/860a8714-466a-4ce8-bdff-c36679de8a22/deploy-status' />
+<p>
+
+<p align='center'>
+<samp>This was my first App made with React JS.</samp>
+</p>
+
+<p align='center'>
+<samp>Check out and use the live version of Score Counter: <a href='https://scorecounter.tk/'>here</a> 📡 </samp>
+</p>
+  
+<br></br>                 
 
 <br></br>
                  <hr>
