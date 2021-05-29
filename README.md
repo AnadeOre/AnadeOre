@@ -36,7 +36,7 @@
 <a href='https://top.gg/bot/775810393556779018'>
 <img alt='Bot Count' src='https://discordbots.org/api/widget/775810393556779018.svg'></a>
 
-<h3 align='center'>The Food Hub</h3>
+<a href='https://github.com/Uklizdev/The-Food-Hub'><h3 align='center'>The Food Hub</h3></a>
 
 <p align='center'>
 <img alt='img' src='https://raw.githubusercontent.com/Uklizdev/The-Food-Hub/master/public/Logo.png' height=130px/>
@@ -53,7 +53,7 @@
 </p>
                  
 
-<h3 align='center'>Score Counter</h3>
+<a href='https://github.com/Uklizdev/React-Score-Counter'><h3 align='center'>Score Counter</h3></a>
                        
 <p align='center'>
 <img alt='img' src='https://raw.githubusercontent.com/Uklizdev/React-Score-Counter/master/Images/Logo.png' height=130px/>
