@@ -77,6 +77,17 @@
 
 <br></br>
                  <hr>
+                 
+<h2 align="center">My Github stats</h2>
+<p align="center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Uklizdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ukliz's Github Stats"/> -->
+
+   <img src="https://github-readme-stats.vercel.app/api?username=Uklizdev&line_height=20show_icons=true&theme=default)" alt="Ukliz's Github Stats"/>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uklizdev&layout=compact" alt="Ukliz's Github Stats"/>
+</p>
+
+<hr>
 
 <h2 align='center'> 📫 Contact me</h2>
 
