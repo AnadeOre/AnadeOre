@@ -36,7 +36,7 @@
 <a href='https://top.gg/bot/775810393556779018'>
 <img alt='Bot Count' src='https://discordbots.org/api/widget/775810393556779018.svg'></a>
 
-<a href='https://github.com/Uklizdev/The-Food-Hub'><h3 align='center'>The Food Hub</h3></a>
+<hr>
 
 <p align='center'>
 <img alt='img' src='https://raw.githubusercontent.com/Uklizdev/The-Food-Hub/master/public/Logo.png' height=130px/>
@@ -51,9 +51,10 @@
 <p align='center'>
 <samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
 </p>
-                 
-
-<a href='https://github.com/Uklizdev/React-Score-Counter'><h3 align='center'>Score Counter</h3></a>
+<p align='center'>
+<samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📡 </samp>                 
+</p>
+                 <hr>
                        
 <p align='center'>
 <img alt='img' src='https://raw.githubusercontent.com/Uklizdev/React-Score-Counter/master/Images/Logo.png' height=130px/>
@@ -62,7 +63,7 @@
 <br></br>
 
 <p align='center'>
-<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='netlify' src='https://api.netlify.com/api/v1/badges/860a8714-466a-4ce8-bdff-c36679de8a22/deploy-status' />
+<img alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='netlify' src='https://api.netlify.com/api/v1/badges/860a8714-466a-4ce8-bdff-c36679de8a22/deploy-status' />
 <p>
 
 <p align='center'>
@@ -72,6 +73,9 @@
 <p align='center'>
 <samp>Check out and use the live version of Score Counter: <a href='https://scorecounter.tk/'>here</a> 📡 </samp>
 </p>
+<p align='center'>
+<samp>View the repo: <a href='https://github.com/Uklizdev/React-Score-Counter'>here</a> 📡 </samp>
+ </p>
   
 <br></br>                 
 
