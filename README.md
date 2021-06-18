@@ -56,6 +56,9 @@
 <samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
 </p>
 <p align='center'>
+<samp>Check out and use the live version of The Food Hub: <a href='https://the-foodhub.herokuapp.com/'>here</a> 📡 </samp>
+</p>
+<p align='center'>
 <samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📡 </samp>                 
 </p>
                  <hr>
@@ -77,7 +80,7 @@
 <p align='center'>
 <samp>Check out and use the live version of Score Counter: <a href='https://scorecounter.tk/'>here</a> 📡 </samp>
 </p>
-<p align='center'>
+<p align="center">
 <samp>View the repo: <a href='https://github.com/Uklizdev/React-Score-Counter'>here</a> 📡 </samp>
  </p>
   
@@ -87,17 +90,21 @@
                  <hr>
                  
 <h2 align="center">My Github stats</h2>
+                                                                              
 <p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Uklizdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ukliz's Github Stats"/> -->
-
-   <img src="https://github-readme-stats.vercel.app/api?username=Uklizdev&line_height=20show_icons=true&theme=default)" alt="Ukliz's Github Stats"/>
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uklizdev&layout=compact" alt="Ukliz's Github Stats"/>
+   <img  height="30%" src="https://github-readme-stats.vercel.app/api?username=Uklizdev&line_height=20show_icons=true&theme=default)" alt="Uklizs Github Stats"/>
+   <img  height="30%" src="http://github-readme-streak-stats.herokuapp.com?user=Uklizdev" alt="Ukliz Streak" />
+                                                                              <br/>
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uklizdev&layout=compact" alt="Uklizs Github Stats"/>                                                                              
 </p>
-
+                                                                                                                                           
+<p align="center">
+                                                                         
+</p>
+                                                                                                                               
 <hr>
 
-<h2 align='center'> 📫 Contact me</h2>
+<h2 align="center"> 📫 Contact me</h2>
 
 <p align='center'>
 <a href="mailto:anaemilia.deorellana@gmail.com?subject=Hello%20Ana,%20From%20Github" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>   <img alt="Discord" src="https://img.shields.io/badge/Ukliz%236961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>   <a href="https://www.buymeacoffee.com/ukliz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="130"></a>
