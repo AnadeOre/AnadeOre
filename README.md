@@ -43,7 +43,7 @@
 <hr>
 
 <p align='center'>
-<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/The-Food-Hub/master/public/Logo.png' height=130px/>
+<img alt='img' src='https://github.com/Uklizdev/The-Food-Hub/blob/master/client/public/Logo.png' height=130px/>
 <p>
 
 <br></br>
