@@ -37,8 +37,9 @@
 </p>
 
 <p align='center'>
-<a href='https://top.gg/bot/775810393556779018'>
-<img alt='Bot Count' src='https://discordbots.org/api/widget/775810393556779018.svg'></a>
+<a href="https://top.gg/bot/775810393556779018">
+  <img src="https://top.gg/api/widget/775810393556779018.svg">
+</a>
 
 <hr>
 
@@ -62,29 +63,26 @@
 <samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📡 </samp>                 
 </p>
                  <hr>
-                       
+                                                                       
 <p align='center'>
-<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/React-Score-Counter/master/Images/Logo.png' height=130px/>
+<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/PRNG-Visualizer/master/Assets/Logo%20small.png' height=300px/>
 <p>
-
-<br></br>
-
-<p align='center'>
-<img alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='netlify' src='https://api.netlify.com/api/v1/badges/860a8714-466a-4ce8-bdff-c36679de8a22/deploy-status' />
-<p>
-
-<p align='center'>
-<samp>This was my first App made with React JS.</samp>
+ <br></br>
+                                                                                                              
+<p align='center'>                                                                                                             
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-
+<br></br>                  
+                 
 <p align='center'>
-<samp>Check out and use the live version of Score Counter: <a href='https://scorecounter.tk/'>here</a> 📡 </samp>
+<samp>Pseudorandom Number Generator Visualizer .</samp>
 </p>
-<p align="center">
-<samp>View the repo: <a href='https://github.com/Uklizdev/React-Score-Counter'>here</a> 📡 </samp>
- </p>
-  
-<br></br>                 
+<p align='center'>
+<samp>Check out and use the live version of PRNG Visualizer: <a href='https://prngvisualizer.netlify.app/'>here</a> 📡 </samp>
+</p>
+<p align='center'>
+<samp>View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer'>here</a> 📡 </samp>                 
+</p>                    
 
 <br></br>
                  <hr>
