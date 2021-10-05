@@ -53,14 +53,14 @@
 <img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
 <p>
 
-<p align='center'>
+<h4 align='center'>
 <samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
-</p>
+</h4>
 <p align='center'>
 <samp>Check out and use the live version of The Food Hub: <a href='https://the-foodhub.herokuapp.com/'>here</a> 📡 </samp>
 </p>
 <p align='center'>
-<samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📡 </samp>                 
+<samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📚 </samp>                 
 </p>
                  <hr>
                                                                        
@@ -74,14 +74,14 @@
 </p>
 <br></br>                  
                  
-<p align='center'>
+<h4 align='center'>
 <samp>Pseudorandom Number Generator Visualizer .</samp>
-</p>
+</h4>
 <p align='center'>
 <samp>Check out and use the live version of PRNG Visualizer: <a href='https://prngvisualizer.netlify.app/'>here</a> 📡 </samp>
 </p>
 <p align='center'>
-<samp>View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer'>here</a> 📡 </samp>                 
+<samp>View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer'>here</a> 📚 </samp>                 
 </p>                    
 
 <br></br>
