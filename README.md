@@ -87,20 +87,7 @@
 <br></br>
                  <hr>
                  
-<h2 align="center">My Github stats</h2>
-                                                                              
-<p align="center">
-   <img  height="30%" src="https://github-readme-stats.vercel.app/api?username=Uklizdev&line_height=20show_icons=true&theme=default)" alt="Uklizs Github Stats"/>
-   <img  height="30%" src="http://github-readme-streak-stats.herokuapp.com?user=Uklizdev" alt="Ukliz Streak" />
-                                                                              <br/>
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uklizdev&layout=compact" alt="Uklizs Github Stats"/>                                                                              
-</p>
-                                                                                                                                           
-<p align="center">
-                                                                         
-</p>
-                                                                                                                               
-<hr>
+ 
 
 <h2 align="center"> 📫 Contact me</h2>
 
