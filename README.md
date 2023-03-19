@@ -2,7 +2,7 @@
 
 <br></br>
 
-<p align='center'>  <samp>I'm a Math major student, Discord bots developer and self taught Front-End web developer, now working in with Back-End. Creator of Clawful discord bot. </samp></p>
+<p align='center'>  <samp>I'm a Mathematician, Discord bots developer and self taught Front-End web developer, now working in with Back-End and Deep Learning. Creator of Clawful discord bot. </samp></p>
 
 <hr>
 
