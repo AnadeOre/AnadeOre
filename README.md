@@ -16,6 +16,50 @@
 
 <h2 align='center'> 📖 Latest Projects</h2>
 
+<p align='center'>
+<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/PRNG-Visualizer/master/Assets/Logo%20small.png' height=300px/>
+<p>
+ <br></br>
+                                                                                                              
+<p align='center'>                                                                                                             
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+<br></br>                  
+                 
+<h4 align='center'>
+<samp>Pseudorandom Number Generator Visualizer .</samp>
+</h4>
+<p align='center'>
+<samp>Check out and use the live version of PRNG Visualizer: <a href='https://prngvisualizer.netlify.app/'>here</a> 📡 </samp>
+</p>
+<p align='center'>
+<samp>View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer'>here</a> 📚 </samp>                 
+</p>                    
+
+<br></br>
+                 <hr>
+
+<p align='center'>
+<img alt='img' src='https://github.com/Uklizdev/The-Food-Hub/blob/master/client/public/Logo.png' height=130px/>
+<p>
+
+<br></br>
+
+<p align='center'>
+<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
+<p>
+
+<h4 align='center'>
+<samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
+</h4>
+<p align='center'>
+<samp>Check out and use the live version of The Food Hub: <a href='https://the-foodhub.herokuapp.com/'>here</a> 📡 </samp>
+</p>
+<p align='center'>
+<samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📚 </samp>                 
+</p>
+                 <hr>
+
 <h3 align='center'>Clawful Discord Bot</h3>
 
 <p align='center'>
@@ -42,52 +86,8 @@
 </a>
 
 <hr>
-
-<p align='center'>
-<img alt='img' src='https://github.com/Uklizdev/The-Food-Hub/blob/master/client/public/Logo.png' height=130px/>
-<p>
-
-<br></br>
-
-<p align='center'>
-<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
-<p>
-
-<h4 align='center'>
-<samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
-</h4>
-<p align='center'>
-<samp>Check out and use the live version of The Food Hub: <a href='https://the-foodhub.herokuapp.com/'>here</a> 📡 </samp>
-</p>
-<p align='center'>
-<samp>View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a> 📚 </samp>                 
-</p>
-                 <hr>
                                                                        
-<p align='center'>
-<img alt='img' src='https://raw.githubusercontent.com/Uklizdev/PRNG-Visualizer/master/Assets/Logo%20small.png' height=300px/>
-<p>
- <br></br>
-                                                                                                              
-<p align='center'>                                                                                                             
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-<br></br>                  
-                 
-<h4 align='center'>
-<samp>Pseudorandom Number Generator Visualizer .</samp>
-</h4>
-<p align='center'>
-<samp>Check out and use the live version of PRNG Visualizer: <a href='https://prngvisualizer.netlify.app/'>here</a> 📡 </samp>
-</p>
-<p align='center'>
-<samp>View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer'>here</a> 📚 </samp>                 
-</p>                    
 
-<br></br>
-                 <hr>
-                 
- 
 
 <h2 align="center"> 📫 Contact me</h2>
 
