@@ -2,7 +2,7 @@
 
 <br></br>
 
-<p align='center'>  <samp>I'm a Maths Ph.D. student, self taught Web developer. Owner of <a href='https://www.youtube.com' target="_blank">Problemathic</a></samp></p>
+<p align='center'>  <samp>I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's <a href='https://www.youtube.com' target="_blank">YouTube Channel</a> and <a href='https://www.instagram.com/problemathicvideos/' target="_blank">Instagram</a>.</samp></p>
 
 <hr>
 
