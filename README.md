@@ -109,7 +109,7 @@
 <h2 align="center"> 📫 Contact me</h2>
 
 <p align='center'>
-<a href="mailto:anaemilia.deorellana@gmail.com?subject=Hello%20Ana,%20From%20Github" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>   <img alt="Discord" src="https://img.shields.io/badge/Ukliz%236961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>   <a href="https://www.buymeacoffee.com/ukliz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="130"></a>
+<a href="mailto:anaemilia.deorellana@gmail.com?subject=Hello%20Ana,%20From%20Github" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>   <img alt="Discord" src="https://img.shields.io/badge/Ukliz%236961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <h2  align="center"> Check Out My Repos 👇 </h2>
