@@ -67,14 +67,14 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>               
                  
-<h4 align='center'>
-<samp>Pseudorandom Number Generator Visualizer .</samp>
-</h4>
+<h3 align='center'>
+ Pseudorandom Number Generator Visualizer .
+</h3>
+<h5 align='center'>
+<samp>📡  <a href='https://prngvisualizer.netlify.app/'>Live Version</a></samp>
+</h5>
 <p align='center'>
-<samp>📡 Live Version: <a href='https://prngvisualizer.netlify.app/'>here</a></samp>
-</p>
-<p align='center'>
-<samp>📚 View the repo: <a href='https://github.com/Uklizdev/PRNG-Visualizer' target="_blank">here</a></samp>                 
+<samp>📚 <a href='https://github.com/Uklizdev/PRNG-Visualizer' target="_blank">View the repo</a></samp>                 
 </p>                    
 
 ---
@@ -87,14 +87,14 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 <img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
 </p>
 
-<h4 align='center'>
+<h3 align='center'>
 <samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
-</h4>
+</h3>
 <p align='center'>
-<samp>📡 Live version: <a href='https://the-foodhub.herokuapp.com/'>here</a></samp>
+<samp>📡 <a href='https://the-foodhub.herokuapp.com/'>Live version</a></samp>
 </p>
 <p align='center'>
-<samp>📚 View the repo: <a href='https://github.com/Uklizdev/The-Food-Hub'>here</a></samp>                 
+<samp>📚 <a href='https://github.com/Uklizdev/The-Food-Hub'>View the repo</a></samp>                 
 </p>
                  <hr>
 
@@ -108,9 +108,9 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 <img alt='Clawful' src='https://img.shields.io/badge/Clawful-Online-7289DA?style=for-the-badge&logo=discord'/> <a href="https://discord.com/oauth2/authorize?client_id=775810393556779018&scope=bot&permissions=272682054" target="_blank"><img alt='Invite' src='https://img.shields.io/badge/-Add%20me!-%23F9BF9E?style=for-the-badge&logo=discord&logoColor=gray'/></a>
 </p>
 
-<p align='center'>
+<h3 align='center'>
 <samp>Clawful is an easy to use Discord bot with moderation and fun commands with a cross-server leveling system.</samp>
-</p>
+</h3>
 
 <p align='center'>
 <a href='https://clawful.cf/'><samp>📡 Clawful's Website</a></samp>
