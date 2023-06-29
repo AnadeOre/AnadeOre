@@ -48,15 +48,15 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
   <p align='center'>            
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img alt="NEXTJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>              
-<h4 align='center'>
-<samp>Learn Maths with Animations!</samp>
-</h4>
+<h3 align='center'>
+  Learn Maths with Animations!
+</h3>
 <p align='center'>
  <samp>
 </p>
-<p align='center'>
-<samp>📚 View the repo: <a href='https://github.com/AnadeOre/AniMaths/tree/master' target="_blank">here</a> </samp>                 
-</p>                    
+<h4 align='center'>
+<samp>📚 <a href='https://github.com/AnadeOre/AniMaths/tree/master' target="_blank">View the repo</a> </samp>                 
+</h4>                    
 
 ---
 
@@ -70,12 +70,12 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 <h3 align='center'>
  Pseudorandom Number Generator Visualizer .
 </h3>
-<h5 align='center'>
+<h4 align='center'>
 <samp>📡  <a href='https://prngvisualizer.netlify.app/'>Live Version</a></samp>
-</h5>
-<p align='center'>
+</h4>
+<h4 align='center'>
 <samp>📚 <a href='https://github.com/Uklizdev/PRNG-Visualizer' target="_blank">View the repo</a></samp>                 
-</p>                    
+</h4>                    
 
 ---
 
@@ -84,18 +84,18 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 </p>
 
 <p align='center'>
-<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
+<img alt=React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 <h3 align='center'>
-<samp>A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.</samp>
+  A MERN Stack based recipies website. Using The Meal DB as API and Aut0 as authentication service.
 </h3>
-<p align='center'>
+<h4 align='center'>
 <samp>📡 <a href='https://the-foodhub.herokuapp.com/'>Live version</a></samp>
-</p>
-<p align='center'>
+</h4>
+<h4 align='center'>
 <samp>📚 <a href='https://github.com/Uklizdev/The-Food-Hub'>View the repo</a></samp>                 
-</p>
+</h4>
                  <hr>
 
 <h3 align='center'>Clawful Discord Bot</h3>
@@ -103,7 +103,6 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 <p align='center'>
 <img alt='Logo' src='https://images.discordapp.net/avatars/775810393556779018/eb5ac69d0e756696573496769ad7d773.png?size=128'/>
 </p>
-
 <p align='center'>
 <img alt='Clawful' src='https://img.shields.io/badge/Clawful-Online-7289DA?style=for-the-badge&logo=discord'/> <a href="https://discord.com/oauth2/authorize?client_id=775810393556779018&scope=bot&permissions=272682054" target="_blank"><img alt='Invite' src='https://img.shields.io/badge/-Add%20me!-%23F9BF9E?style=for-the-badge&logo=discord&logoColor=gray'/></a>
 </p>
@@ -112,9 +111,9 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 <samp>Clawful is an easy to use Discord bot with moderation and fun commands with a cross-server leveling system.</samp>
 </h3>
 
-<p align='center'>
+<h4 align='center'>
 <a href='https://clawful.cf/'><samp>📡 Clawful's Website</a></samp>
-</p>
+</h4>
 
 ---
 ### Check Out My Repos 👇
