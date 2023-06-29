@@ -1,11 +1,11 @@
-### 👋 Hi there, I'm Ana
+## <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="35px">  Hi there, I'm Ana
 
 
 I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [YouTube Channel](https://www.youtube.com/problemathic) and [Instagram](https://www.instagram.com/problemathicvideos/)
 
 
 
-#### 📫 Contact me:
+### 📫 Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaemilia.deorellana@gmail.com?subject=Hello%20Ana,%20From%20Github)
 [![Discord](https://img.shields.io/badge/Ukliz%236961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://img.shields.io/badge/Ukliz%236961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
