@@ -56,6 +56,8 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
 </p>
 <h4 align='center'>
 <samp>📡 <a href='https://animaths.vercel.app'>Live version</a></samp>
+</h4>
+<h4 align='center'>
 <samp>📚 <a href='https://github.com/AnadeOre/AniMaths/tree/master' target="_blank">View the repo</a> </samp>                 
 </h4>                    
 
