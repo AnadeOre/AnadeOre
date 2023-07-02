@@ -43,7 +43,7 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
   ### 📖 Latest Projects
 
   <p align='center'>
-    <img alt='Animaths' src='https://github.com/AnadeOre/AniMaths/blob/master/Images/Logo.png?raw=true' height=200px/>
+    <img alt='Animaths' src='https://github.com/AnadeOre/AniMaths/blob/master/public/Images/Logo.png?raw=true' height=200px/>
   </p>
   <p align='center'>            
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img alt="NEXTJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -55,6 +55,7 @@ I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [Y
  <samp>
 </p>
 <h4 align='center'>
+<samp>📡 <a href='https://animaths.vercel.app'>Live version</a></samp>
 <samp>📚 <a href='https://github.com/AnadeOre/AniMaths/tree/master' target="_blank">View the repo</a> </samp>                 
 </h4>                    
 
