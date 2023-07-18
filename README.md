@@ -1,7 +1,7 @@
 ## <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="35px">  Hi there, I'm Ana
 
 
-I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic's [YouTube Channel](https://www.youtube.com/problemathic) and [Instagram](https://www.instagram.com/problemathicvideos/)
+I'm a Maths Ph.D. student, self taught Web developer. Owner of Problemathic.
 
 
 
